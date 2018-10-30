@@ -1,0 +1,11 @@
+.background {
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#button {
+    position:absolute;
+    bottom: 56%;
+    right:47%;
+    border-radius: 10px
+}
